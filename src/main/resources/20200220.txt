@@ -1,0 +1,115 @@
+n 2009, just as consumers had begun to buy wifi-enabled thermostats and front-door cams and other early devices that now make up the "Internet of Things," computer scientist Ang Cui had gotten the idea to scan the Web for "trivially vulnerable" embedded devices.
+
+By trivial, he meant those devices that still carried the usernames and passcodes programmed into them at the factory—obvious usernames like "name" and passcodes like "1234." Many of these codes were published in manuals available freely on the internet and easily scanned automatically with computer programs, so there was no need even to guess.
+
+When he did his scan, Cui found more than one million vulnerable, publicly accessible devices in 144 countries. From this sample, he estimated that about 13 percent of all devices connected to the internet were essentially unlocked doors, waiting for a hacker to walk through. Even more alarming, four months later 96 percent of those devices had the same security holes.
+
+Cui's warning was no less terrifying for its deadpan delivery: "Widely deployed and often misconfigured, embedded network devices constitute highly attractive targets for exploitation."
+
+In the decade since, the number of vulnerable devices connected to the internet has increased sevenfold. The explosion comes from growing demand, fueled by hype, for smart devices. Manufacturers are now tripping over themselves to embed just about every ordinary object, it seems, with tiny computers that happily communicate wirelessly with the world around them. In this "smart" revolution, virtually any device with an on/off switch or up/down button can be controlled remotely with a cellphone or voice sensor. Do you want to turn up the heat, dim the lights and run the dryer without getting up off the sofa—simply by uttering your desire to an Amazon Echo? Do you want your toaster to send a message to the television when the bagel has popped? Do you want your oven to inform you that the casserole has cooked for the prescribed 20 minutes at 350 degrees and is now cooling in the kitchen at 200? The Internet of Things can make all such things happen.
+
+SIGN UP FOR OUR NEWSLETTER
+SIGN UP
+Update your preferences »
+November 01, 2019 Cover
+CAN YOU TRUST YOUR TOASTER?
+ILLUSTRATION BY BRITT SPENCER FOR NEWSWEEK; TOASTER BY BALLYSCANLON/GETTY; TOAST BY JEFFREY COOLIDGE/GETTY
+There's a dark side to this wireless-driven revolution in convenience. The danger goes beyond hacking. Unlike the traditional "Internet of Computers," which is confined to a circumscribed digital "virtual" world, the Internet of Things has a direct connection to the physical one. That opens up a disturbing set of questions: What might happen if the computers inside our new-fangled toaster ovens, security cameras or smart cities were turned against us? Can we really trust the Internet of Things? Most cybersecurity experts are unequivocal in their answer to that last question. "No," says Ben Levine, senior director, product management, cryptography at Rambus, a Sunnyvale-based technology company, specializing in the performance and protection of data. "My short answer, right now, is 'no'."
+
+Unlike the "Internet of Computers," which has been created largely by technicians with a background in information technology or computer science, many manufacturers making the devices now lack the expertise necessary to build airtight systems. Some don't realize the importance of doing so. As a result, the possibilities for mischief seem endless—a fact Cui and other cybersecurity mavens have demonstrated on multiple occasions.
+
+Is your vibrator cheating on you?
+Some of the more creative of these exploits in recent months come from the lab of Alvaro Cardenas, who challenged his students at the University of Texas at Dallas last year to crack a wide array of IoT devices. Among other things, they managed to turn on and hijack a drone and demonstrate they could use it to attack an innocent victim, Kamikaze-style, or to stream video and audio of a neighbor. They hacked into a popular children's toy—a small, talking dinosaur networked to the internet so it could receive updates. Then they demonstrated they could take over the toy and use it to insult the child, instigate inappropriate conversations (using the trusted voice of the toy) or tell the child what to do. They showed they could take control of internet-connected cameras to spy on households. They even identified the existence of "sensitive devices"—vibrators—sometimes used by overseas military personnel to have remote virtual relations with their partners. Not only were they able to obtain private usage information, they warned it was possible to impersonate a "trusted partner" and "commit remote sexual assault."
+
+Cardenas reported their findings to device manufacturers and the CERT Coordination Center, a federally funded non-profit R & D group that works with business and government to improve the security of the internet. Then he submitted a paper to IEEE, a professional association for electronic engineering and electrical engineering, which published their findings in a special issue this fall.
+
+"These attacks show how IoT technologies are challenging our cultural assumptions about security and privacy and will hopefully motivate more emphasis on the security and privacy practices of IoT developers and designers," they wrote. (After the paper was published, all the manufacturers responded and attempted to fix the vulnerabilities, except for the drone companies).
+
+Force multiplier
+FE_Toaster_05_1128700145
+The Mirai attack of 2016 showed how vulnerable the Internet of Things can be to hacking. It started as a Distributed Denial of Service attack on small-time servers used for playing the video game Minecraft.
+GEORG WENDT/PICTURE ALLIANCE/GETTY
+By the end of 2018, more than 23 billion IoT devices had been installed globally. Many consumers buying these smart devices currently don't bother to hook them up to their WiFi, which means they're essentially offline and out of reach of hackers. But that may change as manufacturers continue to tout the benefits of connectivity. And the number of devices is expected to more than triple, to 75 billion, by 2025.
+
+The sheer number of vulnerable devices gives hackers powerful leverage. The Mirai attack of 2016, which may have been inspired by Cui's original paper, illustrates how dangerous the threat has grown. Paras Jha, a quiet, socially awkward college dropout from New Jersey, ran a lucrative business renting space on his own private computer server to fellow aficionados of the video-game Minecraft, so they could play privately with their friends. It sounds pleasant, but the business is cutthroat. A common tactic of Jha and his rivals was to hack into the home computers of unsuspecting people, hijack them with malware and instruct them to send torrents of unwanted messages and data to the machines of their rivals, overwhelming them and hopefully shutting them down—known as a Distributed Denial of Service Attack (DDoS). Unsuspecting customers, frustrated by the "unreliable" service, were then easy targets for poaching.
+
+IN THE MAGAZINE
+AI_Sidebar1_HowToProtectYourself
+FEATURESTECH & SCIENCE
+8 Ways to Protect Your Home From Hackers
+AI_Sidebar_QandA
+FEATURESTECH & SCIENCE
+Our Privacy Nightmare and What Can Be Done About It
+CUL_Daum_02_171587607_Banner
+DOWNTIMECULTURE
+Meghan Daum Declares War on Political Correctness
+PS_Willem Dafoe_Banner
+DOWNTIMECULTURE
+Willem Dafoe on The Lighthouse, Motherless Brooklyn and Loving to Complain
+PER01_SyntheticVirus_1145440405_Banner
+PERISCOPETECH & SCIENCE
+Are Manmade Viruses the Next Big Terrorist Threat?
+In 2016, Jha and two Minecraft friends he'd met online decided to do his rivals one better. They hacked not only desktop computers but also the myriad security cameras, wireless routers, digital video recorders, household appliances and other IoT devices. Like Cui before him, Jha and his friends wrote a program that scanned the internet to locate vulnerable devices. But unlike Cui, they actually planted malware on the machine and took control of them. Leveraged by the proliferation of smart devices, Jha's zombie bot army grew faster than he could have imagined--by the end of the first day, he had appropriated 65,000 devices; by some estimates his zombie army reached 600,000.
+
+The attack, nicknamed "Mirai" ("the future") after a Japanese television series, was so powerful that Jha wasn't content with taking down his small-fry Minecraft rivals. He also trained the new weapon on the huge French telecom provider OVH, which hosted a popular tool that his rivals relied on to defend themselves against his attacks. Eventually, the cops took notice. Jha was fined $8.6 million and 2,500 hours of community service working for the FBI.
+
+Cui, now the 36-year-old founder and CEO of Red Balloon Security, often gives talks at hacker conferences wearing a tee-shirt, a bead necklace, and a man bun and makes a good living advising companies how to protect themselves in a hostile cyber-world. He continues to marvel at how little has been done to patch not just the vulnerability his paper identified but also many others that he believes could arguably cause even more damage. While the security firms serving large well-financed companies like those targeted in the Mirai attacks have come up with new ways to defend client servers against DDoS attacks, many manufacturers of IoT devices are doing little if anything to protect the rest of us from cyber mischief—not just zombie device conscription, but also spying, sabotage and exploits that security experts argue should raise profound privacy and safety concerns.
+
+What accounts for the neglect, Cui believes, is a gold-rush mentality to grab market share in the burgeoning IoT device business. Over the last five years, the hype over IoT has become so hot that many VC-funded startups in the consumer-device field—and even some major manufacturers—are adding internet connectivity, rushing their products to market, and resolving to fix any security flaws later. Some haven't even thought about security at all. "You have to put in the time and resources to care about security," says Cui. "But there's a lot of VC money, and they want to very quickly roll out a thing that has an IoT feature that they think the market might like."
+
+The money is primarily spent to develop new devices. "The problem at the moment is that there's really no incentive for security," Cardenas told Newsweek. "Security usually gets in the back burner of these products." Most consumers aren't aware of the dangers and aren't demanding protection. And the device manufacturers are under no obligation to provide it.
+
+In a lab at the Georgia Institute of Technology, Manos Antonakakis, an associate professor in the school of electrical and computer engineering, and research scientist Omar Alrawi, have also been probing the gaping security vulnerabilities of the emerging IoT. Antonakakis notes that while there's a class of well-known vendors that "at least try to get the security right in some cases," even large manufacturers are under pressure to rush new IoT products onto the current market. "It takes a lot of quality assurance and testing, and penetration analysis and vulnerability analysis to get it right," he says. But the rush to market "comes into violent disagreements with proven security practices."
+
+Many of the largest tech companies have invested heavily in tapping into the market for "smart home" devices, one of the fastest growing areas for IoT devices. Amazon is among those dominating the market for smart hubs, along with Google, which purchased the digital thermostat maker Nest in 2014 for $3.2 billion. Google has since expanded it to become a digital hub that also includes smoke detectors and security systems like smart doorbells and locks. Samsung has the SmartThings hub, which it acquired in 2014 for $200 million, and now connects to air conditioners, washers and TVs. Apple has a home kit which can control any number of devices through voice commands delivered in range of its HomePod.
+
+FE_Toaster_12_1036677292
+Dave Limp, of Amazon sdevices and services, introduces the Echo Dot in 2018.
+GRANT HINDSLEY/AFP/GETTY
+Gaping vulnerabilities
+Once these systems are installed, devices from a growing number of companies can be added to the home network, including those made by well-known home appliance manufacturers like GE, Bosch and Honeywell. Belkin makes a line of connected appliances that includes a Crock-Pot WeMo Smart Slow Cooker, smart Mr. Coffee maker and a smart home humidifier. There's a lot of money to be made. All told by the end of 2019, more than $490 billion in profits will have been earned on the nearly 2 billion consumer devices sold over the previous 12 months, according to the property management consulting firm iProperty Management.
+
+To try to draw attention to the dangers—and the things consumers should be asking questions about when buying new IoT products—Antonakakis and Alrawi, in collaboration with researchers at the University of North Carolina at Chapel Hill, have developed a rating system and begun evaluating the security of a wide array of IoT devices. And surprisingly they found gaping vulnerabilities in devices and systems produced by even some of the most tech-savvy companies.
+
+The vulnerability of IoT devices goes well beyond holes in password protection, the vulnerability exposed by the Mirai attack, they argue. IoT devices can also be accessed and taken over directly through the home network they are connected to, and that home network is only as strong as its weakest link. That means that even if each device comes with a unique password and username, it's not necessarily secure. Once hackers find a way onto the home network through one vulnerable device, the path is often wide open to the rest of the network.
+
+To secure an IoT device, they argue, manufacturers need to patch vulnerabilities in four different areas : direct access to the device itself, the mobile app used to run it, the way it communicates with its home network and, in many cases, the cloud-based server that manufacturers use to push out updates, collect user data, or provide new services.
+
+Getting all that right is not easy. For a vendor to secure all four parts, Alrawi notes, it needs a good mobile-app developing team "that knows secure development," a "system team that does very good embedded system development and secure development" and cloud experts who can design a secure cloud "backend" that allows the device to be managed without exposing it to additional risk. Finally, the device manufacturers need somebody who has network knowledge on how to build efficient and secure internet protocols and what protocols to avoid.
+
+"They have to balance all this with usability," he says "So you can see that this is already getting really hard to manage just mentally. When a startup team that comes up with this great idea wants to push a product to market, they're usually a small team that doesn't have all this expertise. But even with big vendors, some of these problems are really hard to pin down and manage."
+
+Indeed, while Antonakakis, Alrawi and their team give relatively high marks for device security to the mainstream products like the Amazon Echo and the Belkin Netcam, they gave them Cs, Ds, and Fs for network security—a measure of how protected these devices are from intruders who manage to access the home wireless network through other vulnerable devices. And while a number of devices associated with Google's Nest smart home products (like thermostats, smoke detectors, smart locks and doorbells) receive As and Bs for device and network security, they got Cs and Ds for mobile and cloud protections—meaning a resourceful hacker intent on say, unlocking the front door, could still access a home.
+
+The cloud category is the most worrisome. Since many of these services are cloud based and connected to central company servers, if a determined, well-financed hacker—say, China, North Korea or Russia—were to use the same kind of sophisticated exploits they have used to bypass security on the traditional internet of computers, there's no telling what they might do.
+
+"You're talking about getting access to potentially millions of people's homes, and when that happens, think about all of the microphones and cameras and actuators that you have around your house, and multiply that out by all the people who use these things," Cui says.
+
+"Many consumers don't fully understand the risks associated with installing some of these devices in their homes," adds Alrawi.
+
+Until they do, the situation is unlikely to change. Many experts wonder how big a price we will have to pay before that happens. "It's a mess," says David Kennedy, a cybersecurity expert who designs security for a wide array of manufacturers and has testified before Congress on the IoT. "An absolute mess. We're going into this very blind, without a lot of security discussions around what the impacts are going to be to our lives and to our safety."
+
+Kennedy, whose current title is CEO of the company TrustedSec, has hacked into his share of devices over the years to make a point, including smart TVs, thermostats, smart fridges, robotic house cleaners and controllers that are connected to the energy grid. But Kennedy's biggest concern at the moment is in the area of automotive safety.
+
+There have already been some cautionary tales. In 2015, Fiat Chrysler had to issue a safety recall affecting 1.4 million vehicles in the United States so it could patch software vulnerabilities, after two security researchers hacked into the internet-connected entertainment system of a Jeep Cherokee carrying a magazine reporter, took control of the vehicle, blasted the radio and AC, then brought traffic to a standstill in the middle of a freeway.
+
+The problem, says Kennedy, is that most cars have scores of different pieces of technology in them, many of which are connected directly to the internet to allow them to transmit data needed for preventive maintenance. But the manufacture of these different IoT devices is often subcontracted out to scores of different contractors, which makes it logistically difficult to provide security updates and patches when new security vulnerabilities are discovered. (He pointed to Tesla as the major exception because, he argues, it is "a software manufacturer first and car manufacturer second," and thus knows how to build secure systems.)
+
+The idea of regularly pushing out preventive security updates to patch newly discovered vulnerabilities in IoT-networked cars—a standard practice for products like Microsoft windows and the Apple iPhone—is new and has not yet been incorporated into the automotive industry. "I can't talk about which car manufacturers I've done assessment work for, but I can tell you that I've worked for a number of them, and security practices need a lot of work," he says. "They're not pushing patches out to the cars, which makes them extremely vulnerable to specific attacks—everything from eavesdropping in your car to driving them off the road."
+
+FE_Toaster_08_1080530618
+Online Break-ins Hackers could break into one device on a car or in a home and from there gain access to an entire network. Many toys are now linked to the internet.
+ROBYN BECK/AFP/GETTY
+The nightmare scenario is a mass fleet takeover, where a bad actor hacks different cars across the world to cause mass mayhem. "That's definitely something that's possible now with these interconnected cars, no question about it," Kennedy says. "Someone will lose their life and then eventually they'll kind of knee jerk into fixing the whole industry. I think that's what it will take to change the mentality of car manufacturers."
+
+Lawmakers in some jurisdictions are beginning to wade into the murky waters of IoT regulation. In January, California will become the first state to implement an IoT security law. The bill, passed in 2018 with a January 2020 deadline, will require companies that make connected devices to equip them with "reasonable security features," explicitly requiring that each device come with either a unique passcode or require the user to generate one before using the IoT device for the first time—taking aim at patching the vulnerability exploited so successfully in the Mirai exploit and the copycat attacks that have followed. Beyond that, however, the law seems to have been written to be purposely vague, allowing room for further state guidance in the future.
+
+Cybersecurity experts have called on the Federal government in the U.S. to step in to regulate the industry. The U.S. House of Representatives last March introduced a bill, for the third session in a row, that would require the National Institute of Standards and Technology (NIST) in the U.S. Department of Commerce to develop recommended standards for IoT devices, and would assign the Office of Management and Budget (OMB ) the task of issuing guidance to agencies that aligns with NIST's requirements. The law would also require NIST to offer guidance on vulnerability disclosure and report on IoT cybersecurity threats.
+
+Two and half years ago, NIST started a program to look at the issue and this past summer solicited public comment on a voluntary set of minimum "baseline" security functions that any internet capable device should offer, whether it is intended for consumers, businesses or federal agencies, says Katerina "Kat" Megas NIST program manager, Cybersecurity for Internet of Things.
+
+Among them, every single device must have a unique number or identifier associated with it that shows up on the network, which would make it easy to locate quickly and unplug the source of any problems that arise—a feature that many IoT devices currently do not offer. Other features would manage access to each device through secure methods of user authentication; protect data by encrypting it; and provide secure updates and log cyber-events so investigators can track how problems develop.
+
+Few experts have illusions these measures will solve the problem soon. The standards would be voluntary. And even if Congress were to enact laws mandating security standards, a profound security vulnerability would remain: users themselves.
+
+"No matter how strong your system is, it's only as strong as your weakest link—and the weakest link is always the human," says Jason Glassberg, cofounder of Casaba Security, a leading cybersecurity firm. "The largest breaches, the largest attacks for the most part have not been because of some super significantly technical attack. It's been because someone's been fooled into giving up their credentials. They've been fooled into clicking on a link which installed malware or asked them to provide their password. And it certainly doesn't change in the Internet of Things world.

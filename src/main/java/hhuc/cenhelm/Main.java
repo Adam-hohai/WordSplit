@@ -109,12 +109,12 @@ public class Main {
 
         String content = null;
         try {
-            content = read("src/main/resources/20200219.txt");
+            content = read("src/main/resources/20200220.txt");
         } catch (Exception e) {
             e.printStackTrace();
         }
         System.out.println(content);
-        String rule = ", !./';:?\"()“”‘’-—$%#!&*";
+        String rule = ", !./';:?\"()“”‘’-—$%#!&*——_1234567890|`~·";
         Map<String, Integer> wordMap = splitOut(content, rule);
         //调用百度翻译的接口
         TransApi transApi = new TransApi(APP_ID, SECURITY_KEY);
