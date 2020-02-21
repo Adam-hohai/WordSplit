@@ -5,6 +5,7 @@ import com.alibaba.fastjson.JSONObject;
 import hhuc.cenhelm.tools.TransApi;
 
 import java.io.*;
+import java.sql.*;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
@@ -87,8 +88,25 @@ public class Main {
         return jsonObject.get("result").toString();
     }
 
-    public static void main(String[] args) {
+    /**
+     * 连接数据库
+     *
+     * @return 返回Connection对象
+     * @throws Exception 可能抛出异常
+     */
+    public static Connection getConnection() throws Exception {
+        Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
+        String url = "jdbc:sqlserver://127.0.0.1:1433;DatabaseName=EnNewspaperHKW";
+        String user = "sa";
+        String password = "990919";
+        Connection conn = DriverManager.getConnection(url, user, password);
+        System.out.println("数据库连接成功");
+        return conn;
+    }
+
+    public static void main(String[] args) throws Exception {
         // write your code here
+
         String content = null;
         try {
             content = read("src/main/resources/20200219.txt");
@@ -98,15 +116,47 @@ public class Main {
         System.out.println(content);
         String rule = ", !./';:?\"()“”‘’-—$%#!&*";
         Map<String, Integer> wordMap = splitOut(content, rule);
-
+        //调用百度翻译的接口
         TransApi transApi = new TransApi(APP_ID, SECURITY_KEY);
-
+        //遍历键值对,操作数据库
+        Connection connection = getConnection();
+        PreparedStatement psSel = null, psIns = null, psUpd = null;
+        ResultSet rsSel = null;
+        String sqlSel, sqlIns, sqlUpd = "";
         Iterator<String> iterator = wordMap.keySet().iterator();
         while (iterator.hasNext()) {
             String word = iterator.next();
-            System.out.println(word + " " + translate(transApi, word) + " " + wordMap.get(word));
+            String translation = translate(transApi, word);
+            int frequency = (int)wordMap.get(word);
+            System.out.println(word + " " + translation + " " + frequency);
+            sqlSel = "select * from hkwDailyData where word=?";
+            psSel = connection.prepareStatement(sqlSel);
+            psSel.setString(1, word);
+            rsSel = psSel.executeQuery();
+            if (rsSel.next()) {
+                sqlUpd = "update hkwDailyData set frequency = frequency +? where word =?";
+                psUpd = connection.prepareStatement(sqlUpd);
+                psUpd.setInt(1,frequency);
+                psUpd.setString(2,word);
+                psUpd.executeUpdate();
+                System.out.println("更新成功");
+
+            } else {
+                sqlIns = "insert into hkwDailyData(word,translation,frequency) values (?,?,?)";
+                psIns = connection.prepareStatement(sqlIns);
+                psIns.setString(1, word);
+                psIns.setString(2, translation);
+                psIns.setInt(3, frequency);
+                psIns.executeUpdate();
+                System.out.println("插入成功");
+            }
+            
         }
-
-
+        psUpd.close();
+        psIns.close();
+        psSel.close();
+        rsSel.close();
+        connection.close();
+        System.out.println("提取结束");
     }
 }
