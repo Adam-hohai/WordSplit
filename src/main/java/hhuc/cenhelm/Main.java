@@ -129,6 +129,15 @@ public class Main {
             String translation = translate(transApi, word);
             int frequency = (int)wordMap.get(word);
             System.out.println(word + " " + translation + " " + frequency);
+
+            //写入txt
+            File fileName = new File("src/main/resources/20200223output.txt");
+            BufferedWriter out = new BufferedWriter(new FileWriter(fileName,true));//文件追加
+            out.write(word + " " + translation + " " + frequency + "\r\n");
+            out.flush();
+            out.close();
+
+            //操作数据库
             sqlSel = "select * from hkwDailyData where word=?";
             psSel = connection.prepareStatement(sqlSel);
             psSel.setString(1, word);
@@ -150,7 +159,7 @@ public class Main {
                 psIns.executeUpdate();
                 System.out.println("插入成功");
             }
-            
+
         }
         psUpd.close();
         psIns.close();
