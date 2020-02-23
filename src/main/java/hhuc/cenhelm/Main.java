@@ -109,7 +109,7 @@ public class Main {
 
         String content = null;
         try {
-            content = read("src/main/resources/20200220.txt");
+            content = read("src/main/resources/20200223.txt");
         } catch (Exception e) {
             e.printStackTrace();
         }

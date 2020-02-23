@@ -1,0 +1,30 @@
+Global problems need social science
+
+Without human insights, data and the hard sciences will not meet the challenges of the next decade, says Hetan Shah.
+Hetan Shah
+ PDF version
+At the beginning of the year, Dominic Cummings, a senior adviser to the UK government, posted an unusual advert on his blog, calling for data scientists, mathematicians and physicists to join him at the heart of government. As outgoing director of the Royal Statistical Society in London and soon-to-be chief executive of the British Academy, I support the sentiment behind the call: data do have huge power to inform government policy.
+
+But I worry about the fact that the call prioritized science and technology over the humanities and social sciences. Governments must make sure they also tap into that expertise, or they will fail to tackle the challenges of this decade.
+
+For example, we cannot improve global health if we take only a narrow medical view. Epidemics are social as well as biological phenomena. Anthropologists such as Melissa Leach at the Institute of Development Studies in Brighton, UK, played an important part in curbing the West African Ebola epidemic with proposals to substitute risky burial rituals with safer ones, rather than trying to eliminate such rituals altogether.
+
+Treatments for mental health have made insufficient progress. Advances will depend, in part, on a better understanding of how social context influences whether treatment succeeds. Similar arguments apply to the problem of antimicrobial resistance and antibiotic overuse.
+
+Environmental issues are not just technical challenges that can be solved with a new invention. To tackle climate change we will need insight from psychology and sociology. Scientific and technological innovations are necessary, but enabling them to make an impact requires an understanding of how people adapt and change their behaviour. That will probably require new narratives — the purview of rhetoric, literature, philosophy and even theology.
+
+Poverty and inequality call even more obviously for expertise beyond science and maths. The UK Economic and Social Research Council has recognized that poor productivity in the country is a big problem, and is investing up to £32.4 million (US$42 million) in a new Productivity Institute in an effort understand the causes and potential remedies.
+
+Policy that touches on national and geographical identity also needs scholarly input. What is the rise of ‘Englishness’? How do we live together in a community of diverse races and religions? How is migration understood and experienced? These intangibles have real-world consequences, as demonstrated by the Brexit vote and ongoing discussions about whether the United Kingdom has a future as a united kingdom. It will take the work of historians, social psychologists and political scientists to help shed light on these questions. I could go on: fighting against misinformation; devising ethical frameworks for artificial intelligence. These are issues that cannot be tackled with better science alone.
+
+Consider how life-enhancing — and even life-saving — technologies have failed to be taken up. ‘Vaccine hesitancy’ is more a social phenomenon than a technical one, and the main cause of measles resurgence. Solutions depend not on medical breakthroughs, but on insight from anthropologists such as Heidi Larson at the London School of Hygiene & Tropical Medicine, who have done much to understand people’s decisions about whether to vaccinate themselves and their children.
+
+In diverse cases, social factors — cultural norms, educational understanding, kin and social networks, power dynamics, or simply the layout of a building — must be accounted for before policy can succeed. Blind faith in data science without an understanding of what data are missing, or how algorithms can exacerbate existing biases, can lead to policy failure.
+
+A good example of the incorporation of appropriate expertise is the UK government’s Behavioural Insights Team, which has run more than 750 projects around the world, in particular randomized control trials of policy interventions. Work on the treatment of tuberculosis in Moldova brought the rate of adherence to daily medical regimes up from 44% to 84%.
+
+Downing Street is right to look for data scientists, but must not overlook the benefits brought by the humanities and social science. This expertise is embedded in existing staff and structures and should not be overlooked. There are many successes, from the creation of the ‘nudge units’ to the use of social-science expert panels. Detailed policy histories — compiled by agencies such as the British Academy and the UK Institute for Government — can provide surprising and valuable insights.
+
+More could be done to connect the policy community with external social science and humanities expertise. Chile’s innovation-focused Government Laboratory, the Bridging the Gap programme in Washington DC, and the Centre for Science and Policy in Cambridge, UK, have all used a variety of mechanisms — among them workshops, funding schemes and policy fellowships — to bring expert voices into the policymaking process.
+
+In a democracy, expert advice must be balanced with considerations such as public opinion, financial costs and political demands. Still, without the humanities and social sciences, hard science and technology can do little to resolve complex societal challenges. Wise governments will find ways to incorporate that insight.
