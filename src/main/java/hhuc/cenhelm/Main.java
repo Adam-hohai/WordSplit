@@ -109,12 +109,12 @@ public class Main {
 
         String content = null;
         try {
-            content = read("src/main/resources/20200223.txt");
+            content = read("src/main/resources/20200302.txt");
         } catch (Exception e) {
             e.printStackTrace();
         }
         System.out.println(content);
-        String rule = ", !./';:?\"()“”‘’-—$%#!&*——_1234567890|`~·";
+        String rule = ", !./';:?\"()“”‘’-—$%#!&*——_1234567890|`~·[]{}";
         Map<String, Integer> wordMap = splitOut(content, rule);
         //调用百度翻译的接口
         TransApi transApi = new TransApi(APP_ID, SECURITY_KEY);
@@ -131,7 +131,7 @@ public class Main {
             System.out.println(word + " " + translation + " " + frequency);
 
             //写入txt
-            File fileName = new File("src/main/resources/20200223output.txt");
+            File fileName = new File("src/main/resources/20200302output.txt");
             BufferedWriter out = new BufferedWriter(new FileWriter(fileName,true));//文件追加
             out.write(word + " " + translation + " " + frequency + "\r\n");
             out.flush();
