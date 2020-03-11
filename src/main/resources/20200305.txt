@@ -1,0 +1,40 @@
+Oracle, Google to face off at Supreme Court over APIs | Fortune
+The two giants will argue before the Supreme Court in a case that has major implications for Silicon ......
+On March 24, the Supreme Court is scheduled to hear one of the most momentous tech cases in decades. The outcome—depending on which participant you believe—will either safeguard future innovation or deal a deserved comeuppance to a lawless tech giant.
+
+The case is Google v. ­Oracle, and it turns on who owns scraps of computer code known as APIs. Short for application programming interfaces, APIs allow one computer program to talk to another by letting, for instance, a weather app pull live temperatures from a third party and then display them on a map. APIs are an essential building block of the digital economy, and in the blockbuster case Oracle says Google committed copyright infringement by using its APIs without permission. Those APIs relate to the Java programming language, which Google used to build its mobile Android software—an act of piracy, in Oracle’s view, worth $9 billion in damages.
+
+For its part, Google warns that an appeals court made a grievous mistake in ruling for Oracle and that, if the Supreme Court upholds the ruling, it would force companies to ask permission or pay every time they use the high-tech equivalent of a nut or a bolt. “Google’s view has been the industry’s view for decades, and that’s why the software industry has thrived,” says Google’s attorney, Tom Goldstein. “The industry is scared to death the lower court’s ruling will take hold.”
+
+Oracle dismisses Google’s claims as overblown, noting the lower court’s ruling in its favor hasn’t inhibited recent tech innovations like superfast 5G mobile networks and artificial intelligence. “It’s such utter nonsense,” says Oracle’s general counsel, Dorian Daley. “Nothing is going to change. The only big change is Google didn’t want to take a license when everyone else did.”
+
+The outcome of the case could turn on the Supreme Court’s interpretation of fair use, a legal doctrine that permits unlicensed use of copyrighted works in certain situations, such as for excerpts and parody. Google won before a federal judge on the fair-use issue, but an appeals court overturned that finding.
+
+Before the Supreme Court, Google and its allies, however, plan to make fair use a fallback position. Their main argument is instead that the kind of APIs used by Google are ineligible for copyright because they represent an idea or a method—similar to a recipe or a math formula, which can’t be copyrighted. In support of this position, they point to a case from 1880 in which the Supreme Court ruled that a bookkeeper’s wife could not copyright a system of ledger headings in account books.
+
+“It’s an oldie but goodie,” says law professor Pam Samuelson, who adds the argument will likely resonate with the justices because the Supreme Court pays close attention to its own precedents.
+
+Samuelson, an influential copyright scholar at the University of California at Berkeley, has authored a brief signed by 72 law professors in support of Google. Also on the company’s side are prominent computer scientists, IBM, and Google’s longtime antagonist, Microsoft, which has warned the Supreme Court of “disastrous consequences for innovation” if Oracle prevails.
+
+Oracle has prominent allies of its own, not least of which is the U.S. government, which filed a brief supporting the corporate database giant. For some, the government’s decision to back Oracle may reflect the company’s close ties with President Trump’s White House. According to Samuelson, the appearance of President Trump’s solicitor general on the government’s brief—instead of a deputy or agency head—stands out.
+
+What makes Google v. Oracle still more intriguing is that legal scholars are genuinely uncertain of the outcome. Unlike issues such as abortion and gun control, Supreme Court justices’ views on copyright are seldom scrutinized during the appointment process, making it harder to predict how they’ll rule.
+
+A final wild card in the case is the fact that the aged members of the Supreme Court are unlikely to have deep knowledge of APIs. Harvard law professor Rebecca Tushnet, who filed a brief supporting Google and its fair-use argument, believes the justices will get up to speed when the case goes to trial. Nonetheless, she acknowledges there is a risk they may overlook the technical intricacies of the case—including that Google is claiming only a specific subset of APIs shouldn’t be copyrighted. If this happens, the justices may rely instead on the broader story lines that the companies are arguing.
+
+“A compelling narrative always matters. It gives the court a reason to find in your favor,” says Tushnet. “One framing of the story is that Google went ahead and plundered. The other framing is Oracle took something that belongs to everyone else.” 
+
+
+Tech rulings
+Three Supreme Court decisions that have had a major impact on intellectual property in tech.
+
+MGM v. Grokster (2005)
+The court handed record labels a major victory in their war against piracy by ruling that a popular peer-to-peer music service could be shut down.
+
+Alice v. CLS Bank (2014)
+This case involving digital escrow services ended up limiting the scope of software patents, reducing the legal threat that tech companies face.
+
+ABC v. Aereo (2014)
+The justices ruled that a startup offering antennas to view and record free over-the-air broadcasts is illegal, providing a big win for the TV industry.
+
+A version of this article appears in the March 2020 issue of Fortune with the headline "Tech's Trial of the Century."
