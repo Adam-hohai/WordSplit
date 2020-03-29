@@ -1,0 +1,30 @@
+Gabriel is a professional transcriber, and for years he earned a middle-class living. In the early 2000s he'd make up to $40 an hour transcribing corporate earnings calls. He'd sit at his desk, “knock it out” for hours using custom keystrokes, and watch the money roll in. “I sent my son to private schools and university on transcribing,” he tells me. “It was a nice life.”
+
+But in the past decade, the bottom fell out. As audio recordings went digital and broadband spread, clients could ship work to India and the Philippines. Meanwhile, buzzy Silicon Valley startups emerged—like Rev, a sort of Uber and 800-pound gorilla of the transcription world. It has moved the industry toward an on-demand gig model. Since Rev charged customers a flat rate of $1 per audio minute—less than half what transcription firms historically charged—Gabriel's pay sank even further. On top of it all, AI started nipping away at the industry, with machines now able to rapidly transcribe some audio as well as humans do.
+
+Today Gabriel clears $12 an hour—if he's lucky. Some of his peers make $6. Starbucks would be a step up.
+
+“The whole transcription life,” he sighs, “has gone to garbage.” (Gabriel is not his real name, though you probably figured that out. He doesn't want to burn bridges.)
+
+Why do I raise the seemingly arcane subject of transcription? Because if you want to understand the future of work, it offers a succinct capsule.
+
+Change is murky and weirder than you might expect. For example, demand for transcription has actually exploded in recent years. “It's big across every area,” says Jill Kushner Bishop, who runs Multilingual Connections, a Chicago transcription and translation firm. Why? Because audio is easier than ever to capture (via our pocket computers), so people are recording ever more meetings. Plus, video and podcasting have become the dominant forms of rhetoric. Daily communication is increasingly multimedia.
+
+But multimedia is cumbersome; we still can't search the contents of video or audio very well, so we need to transcribe it. “We're in this world where we are overwhelmed by spoken word that's recorded, and it piles up and up,” says Jeffrey Kofman, the CEO and founder of Trint, an AI transcription firm. Gutenberg would savor the irony. The growth of the shiniest new media has made the dustiest—text—ever more relevant.
+
+Now, theoretically, exploding demand would drive up the price of labor, right? Except that globalization and the gig business model have exploded the supply of workers. Much as with Uber, Rev made it so easy to start transcribing that many more folks now do it as a side hustle.
+
+“They give a lot of people opportunity, which is cool,” as one Rev transcriber told me. And as with most gig companies, Rev seems obsessed with making things simple and frictionless for the customer—hence that sweet, flat rate of $1 per audio minute. But a low rate winds up screwing the worker. This fall Rev abruptly dropped its pay for some content to 30 cents per audio minute, which works out to a bleak income of perhaps $4.50 an hour.
+
+(As this story was going to press, Rev announced the rate it charges customers would go to $1.25 but did not specify a higher base pay rate for transcribers.)
+
+Meanwhile, the sheer profusion of phone-­recorded audio can mean that some is murky and muddled, making it mind-wracking to decipher. It can also be psychologically ghastly: Transcribers have opened Rev audio files to discover victims describing abuse or graphic files from police body cameras. Disturbing content is nothing new, but at an old-school firm the manager might warn a transcriber in advance. Many Rev transcribers have said they get none. After a few hours of intense material, “I need to have a drink—I need to smoke a joint,” Gabriel says. (Rev declined to comment on the conditions for its transcribers.)
+
+By now you may be thinking, hey, aren't machines going to destroy all these jobs anyway? Not yet. Despite all the deep-learning hype, AI struggles with the messiness of reality. Background noise, cross talk, non-Western accents all tend to flummox transcription AI.
+
+It could take a very long time to get over that hump. Humans disambiguate bad audio by grokking the context of the conversation, by deploying common sense. Today's AI is no good at that, and AI experts are still figuring out how to engineer it. Sure, the machines will increasingly be able to transcribe clear and simple audio. But the hard stuff? That'll require humans. Pissed-off, overworked, underpaid humans.
+
+So ponder their fate the next time you think about the future of work. AI doesn't always win. Tech—and today's sharklike gig-work business models—don't always destroy jobs.
+
+They just make them a lot more likely to suck.
+

@@ -1,0 +1,116 @@
+The call came in by radio one evening last September, at around 9 p.m. On the line was the master of a tanker, approaching the end of a monthlong journey from the Port of South Louisiana and carrying more than 5,000 metric tons of ethanol. The message was urgent: The ship’s GPS signal had suddenly disappeared—leaving the crew to navigate Cyprus’s shoreline in the dark.
+
+On the other end of the line was the pilots’ office at the Vasiliko oil terminal, whose staff oversees shipping traffic at Vasiliko’s harbor on Cyprus’s arid, palm-fringed southern coast. Stelios Christoforou, the pilot on duty, recognized the gravity of the situation right away. In daylight, an experienced ship captain can maneuver using paper maps, markers, and the coastline as guides. But at night, GPS becomes a critical tool in unfamiliar waters—especially near Cyprus, where NATO and Russian warships roam. And any accident could spill the tanker’s cargo across miles of coastline.
+
+Christoforou gave the tanker’s master detailed instructions over the radio. It was crucial that the ship avoid a hard-to-see fish farm that could block its path to the west, he explained. He then went out to meet the ship by tugboat; there, he assumed the controls and guided the tanker into the harbor. Christoforou knew the coast’s ins and outs intimately, having worked in the port for six years. Still, these situations made him uneasy. In years past, GPS had occasionally disappeared near Vasiliko for a few seconds, but lately it was vanishing for hours or entire days at a time. “It’s not normal,” the pilot says.
+
+How much risk are you willing to take to avoid spending a whole lot of money?
+
+
+Rick Hamilton, U.S. Coast Guard Navigation Center
+In Cyprus, the not-normal has become routine: The global positioning system signal has been unreliable for much of the past two years. The outages have turned the tiny Mediterranean nation into a case study for a growing global problem: intentional interference with the planet’s most widely used navigation aid.
+
+The sources of such disruptions are hard to trace. But navigation experts agree that they’re on the rise, often in conjunction with crime or armed conflict. And the expanding interference has exposed vulnerabilities for GPS and for the oceangoing shippers who depend on it—an industry that handles more than 80% of global trade, according to the International Maritime Organization, the United Nations regulatory agency.
+
+In recent years, GPS has become so reliable and so ubiquitous that you can forget it’s even there—much less that it can fail. But it’s surprisingly easy, it turns out, to knock the system into disarray. The shipping industry, meanwhile, appears underprepared to cope with breakdowns and unwilling to invest in self-defense in the absence of the kind of Exxon Valdez–like disaster it has so far been fortunate to avoid. Rick Hamilton, GPS information analysis team lead at the U.S. Coast Guard Navigation Center, says shippers and governments alike face an existential question: “How much risk are you willing to take to avoid spending a whole lot of money?”
+
+
+Like another revolutionary technology, the Internet, the global positioning system began as a Pentagon project; it’s still maintained by the U.S. Air Force. But in the mid-1990s, it was opened to civilians, and in 2000 the government stopped degrading the civilian signal, making GPS stronger and more reliable and hastening its adoption worldwide.
+
+The system has rivals in Russia, China, and the EU—collectively known as Global Navigation Satellite Systems (GNSS). But GPS’s supreme advantage is its extensive coverage: A network of at least 24 live satellites positioned around the globe means you are always in sight of at least four, and a receiver—whether in an oil tanker or your smartphone—can triangulate your exact location.
+
+Today GPS is ingrained in daily life, and especially so in business. It is used to guide ships, planes, and trains; by cranes in ports to find and stack containers; and by trucks to deliver those goods to warehouses and stores. Farming, mining, drilling for oil: Each depends on GPS in ever-growing degrees.
+
+
+Christopher Nolan teaches “celestial navigation” to mid-career ship officers, most of whom have rarely or never had to use it.
+Photograph by Jeremy Lange for Fortune
+
+But as GPS has become commonplace, the risks associated with losing it have grown. In a June 2019 paper prepared for the Department of Commerce, the research nonprofit RTI International estimated the cost of a 30-day GPS outage in the U.S. at $1 billion per day. The marine industry would be among those hit hardest, because of the bottlenecks an outage would cause in ports and waterways. And U.S. losses would represent only a fraction of the worldwide impact.
+
+It would take Bond-villain-level exploits to knock GPS offline entirely. But on a local level, all satellite navigation systems are vulnerable. Their signals, which grow weaker as they travel from orbit to earth, are often interrupted accidentally, by atmospheric disturbances or faulty equipment. They can also be interrupted on purpose, by transmitters beaming a conflicting signal, a technique known as “jamming.” Typically, the stronger the conflicting signals, the farther that disruption will reach.
+
+More sophisticated, and more malicious, is “spoofing,” which creates  fake signals that convince the receiver it is somewhere it is not. Done correctly, spoofing can go undetected—and is capable of leading an oil tanker, for example, off course in open water.
+
+High-powered jamming and spoofing are usually the work of armies and intelligence services. Military ships employ sophisticated anti-­jamming technology; as GNSS-guided missiles and drones assume growing roles in combat, the cat-and-mouse of satellite disruption has become a given. Indeed, as tensions mounted between the U.S. and Iran in 2019, what appeared to be jamming and spoofing occurred in and near the Strait of Hormuz, the oil-shipping choke point between Iran and the Persian Gulf states.
+
+
+Tools Chris Nolan uses to teach “celestial navigation."
+Photograph by Jeremy Lange for Fortune
+
+But commercial vessels seldom carry such technology. That’s worrisome, because small-scale GPS disruption has become something almost anyone can do. Off-the-shelf jammers, though illegal in the U.S. and many other countries, are easy to find online for as little as $20, with prices rising as their range increases. Drug-smuggling networks use jammers to mask their activities; illegal fishing operations use them to obscure where they got their catch. And thieves who steal shipping containers deploy jammers to block the trackers hidden inside them.
+
+Perhaps more unsettling, spoofing is no longer particularly difficult either. In 2013, Todd Humphreys, director of the Radionavigation Laboratory at the University of Texas at Austin, spoofed a 213-foot, $80 million yacht. Last June, an Israeli cybersecurity firm called Regulus announced that it had spoofed a Tesla Model 3. (Tesla dismissed the report as a marketing ploy and said it did not have any safety concerns related to the report.)
+
+As GPS has become democratized, in other words, so has disruption—making interference difficult to track or even quantify. In 2018, the Coast Guard began publishing excerpts from reports about GPS outages, including those involving “unknown interference”—a category that includes suspected jamming or spoofing. Those published reports number in the low hundreds worldwide, but Rick Hamilton adds that that’s “a very, very, very small subset of what’s going on out there.” An EU-funded project, Strike3, underscores how much bigger the problem may be. From December 2017 to October 2018, it recorded 15,200 interference “events”—of which “many hundreds” were strong enough to disrupt satellite navigation systems entirely.
+
+
+Beginning in February 2016, ships near the city of Kerch and other ports along the Black Sea began experiencing odd navigation glitches. Over the following months, GPS locations for thousands of ships appeared to suddenly accelerate and move dozens of miles inland—usually to airports. These “spoofs” all took place near a geopolitical hotspot: Kerch is in Crimea, which Russia annexed from Ukraine in 2014.
+
+Those incidents turned out to be the leading edge of a wave of GPS interference events involving commercial ships and aircraft. (See the accompanying timeline.) Many took place near contested borders or zones of armed conflict. And one particular region became a locus of anxiety: the eastern Mediterranean.
+
+The region’s biggest shipping conduit is the Suez Canal, which conveys around 1,500 ships a month between the Red Sea and the Mediterranean, many of them oil tankers bound for Asia or the EU. The “East Med” is also ringed by areas of active combat, including a simmering insurgency on Egypt’s Sinai Peninsula and the devastating multisided conflict in Syria. And at the hub of this troubled region is Cyprus—whose strategically important ports are refueling points not just for ships using the Suez but also for warships patrolling Syria’s waters.
+
+
+Tools Chris Nolan uses to teach “celestial navigation."
+Photograph by Jeremy Lange for Fortune
+
+On the south coast of Cyprus, where Stelios Christoforou works, GPS began to act strangely in January 2018. On vessels offshore or in port, loud alarms would sound as their captains lost the ability to see their GPS location. The alarms would blare as long as GPS was absent: hours, even entire days. Other times, the ships’ GPS locations would be visible—but in impossible places. “Sometimes you see the tugboats in the mountains,” Christoforou says.
+
+The disruptions weren’t confined to Cyprus. Beginning in 2018, NATO and the U.S. Coast Guard registered outages across much of the East Med—as far north as Turkey, east to Lebanon and Israel, and south to the Mediterranean entrance of the Suez Canal, across a range of at least 65,000 square miles. “It’s a very congested area, and disruption in GPS and navigation could have devastating consequences,” says ­Chronis Kapalidis, a former lieutenant commander in the Greek Navy and a maritime security researcher at shipping consultancy HudsonAnalytix. By the end of 2019, GPS disruptions across the Mediterranean had been reported to the Coast Guard 38 times, referencing hundreds of incidents, including some farther to the west, to the coasts of Libya and Malta.
+
+Unlike with most GPS interference, authorities believe they’ve tracked some East Med disruptions to their source. Investigations by the European aviation agency Eurocontrol and the Cypriot Department of Electronic Communications  connected the outages to jamming signals from Syria and concluded they were a by-product of the conflict there. (Neither agency has widely publicized the finding, but both confirmed it to Fortune.)
+
+In March 2019, a report by Humphreys, the Texas GPS expert, and the Center for Advanced Defense Studies, a research center in Washington, D.C., went further in assigning blame. The authors traced the jamming to the Khmeimim air base on Syria’s coast, the “nerve center” of Russia’s military operations in that country—around 137 nautical miles from Vasiliko. The disruptions were unusually strong and sophisticated, and the authors surmised that they were intended to protect Khmeimim from missiles and drones. The same report pointed to a Russian role in the 2016 Black Sea spoofing. It noted that many of those incidents coincided with visits by top Russian officials, including President Vladimir Putin—suggesting a protective effort of another kind.
+
+
+Russia has consistently denied roles in GPS disruptions; Russian authorities did not respond to requests for comment from Fortune. But experts caution that Russia’s emergence as a plausible culprit for some interference doesn’t account for the phenomenon’s growing frequency. In other hotspots, questions about culpability persist. In the Suez, outages have been variously (and speculatively) blamed on Egyptian authorities fighting insurgents and on illegal fishing.
+
+In December, the NATO Shipping Centre, which works with commercial shippers, said that interference continued in the East Med, with “potentially dangerous consequences.” In Vasiliko, outages have tapered off recently. Still, Christoforou and his fellow pilots remain on alert in case something goes wrong. “I worry a little bit when the vessels approach in the night,” he confesses.
+
+At the governmental level, concern over interference is growing, but action isn’t imminent. Last June, 14 maritime groups wrote to the Coast Guard, asking it to work with the International Maritime Organization to resolve the GPS outage issue. In December, the Coast Guard told Fortune it was still in talks with the State Department about how to proceed.
+
+Look out the window, look at the chart, and look at the GPS. In that order.
+
+
+CHRISTOPHER NOLAN : NAVIGATION INSTRUCTOR (QUOTING HIS WIFE, COAST GUARD OFFICER KELLEE NOLAN)
+With state actors sluggish, responsibility falls to shipowners and ship-management companies. Shippers have been reluctant to speak openly about the GPS issue, however, or about what they’re doing to bolster their defenses. Of the 26 ship-management companies contacted for this story, only two, Cyprus’s Lavar Shipping and Norway-based Wilhelmsen, admitted on the record that their ships had experienced GPS interference.
+
+Multiple shipping experts described an industry in transition. Generally, captains and crews have the skills to cope with GPS outages. But broader changes over the past 25 years have increased shippers’ dependence on satellite navigation. Ships have become bigger, faster, and more automated, while crews have shrunk. Offshore infrastructure has proliferated—think undersea cables, aquaculture, and wind farms—making marine space much more crowded. At the same time, says Jonathan Turner, director of the English marine consultancy NLA International, a younger generation of sailors “are switching from dependency on their own skills to rely on some machines,” leaving older crew members worried about a “skill fade” among sailors unprepared for life without GPS.
+
+No one interviewed for this story thought the disruptions outweighed GPS’s advantages: charting a course across open waters, making ports more efficient, and rescuing crews in emergencies. But while a constellation of reinforcement options exist—including more robust anti-jamming receivers, land-based backup systems, or more training—those options cost serious money. A military-grade anti-jamming antenna, for example, costs about 10 times as much as a regular antenna.
+
+Such investments can seem daunting in an industry that reported profit margins of less than 1% in 2019. The shipping world is grappling with slowing trade, overcapacity, and new, costly fuel regulations. The upshot, sources tell Fortune, is that shipowners will be loath to pay much for GPS defenses until outages cross over from a nuisance to a crisis—that is, until a major accident occurs.
+
+
+More than 5,000 miles from Cyprus, in Beaufort, N.C., Christopher Nolan has made a career of showing merchant mariners how to navigate without GPS. The former Coast Guard officer teaches “celestial navigation,” which involves determining one’s location using little more than the position of astronomical bodies in relation to the horizon—in essence, the way Magellan did it.
+
+Nolan’s students include college-age kids and amateurs but also mid-career officers. For them the two-week courses are a requirement for licenses to command large vessels outside U.S. coastal waters. Some have studied traditional navigation, but they tend to be rusty. “It’s a perishable skill,” says Nolan. “Once you’ve passed your exam, you’re never tested on it again.” And many younger mariners have never operated in a GPS-free world.
+
+Nolan isn’t alone in bringing old-school methods back into the curriculum. In 2015, the U.S. Naval Academy resumed teaching celestial navigation to all incoming officers. The academy attributed the decision in part to the rise of cyberthreats that could impede electronic navigation. The class of 2017 was the first in at least 15 years to graduate with core training in the discipline.
+
+Navigating by the stars is far less accurate than GPS, and far more time-consuming. But these basic seafaring skills may soon be tested more frequently than ever before in the GPS era. Nolan says his wife, ­Kellee, a commander in the Coast Guard, teaches her subordinates a timeless rule of thumb. “Look out the window, look at the chart, and look at the GPS,” he says. “In that order.”
+
+
+
+Every year, more dead zones
+GPS outages have gradually grown more prevalent over the past four years; many have occurred near global conflict zones.
+
+February 2016: Black Sea ports
+Hundreds of ships report seeing their GPS locations suddenly migrate dozens of miles inland. A report by U.S. researchers later links many of the incidents to visits to Russian-annexed Crimea by President Vladimir Putin and other senior Russian officials.
+
+March–April 2016: South Korea
+A six-day outage near the North Korean border affects more than 1,000 planes and 700 ships.
+
+Late 2017–present: Suez Canal
+Persistent GPS outages plague the Egyptian shipping artery. Potential causes include an insurgency in the nearby Sinai Peninsula and illegal fishing operations.
+
+Fall 2017 and Fall 2018: Russian-Scandinavian frontier
+Finnish and Norwegian authorities complain about jamming and spoofing of GPS signals near their borders with Russia during NATO military exercises in the region. Russian officials deny responsibility.
+
+January 2018–September 2019: Cyprus and the “East Med”
+Sporadic outages across the eastern Mediterranean, concentrated around Cyprus and near Lebanon and Israel. Cypriot and U.S. investigators link the disruption to military activity in Syria.
+
+June–July 2019: Israel
+Weeks of disruptions are reported by pilots taking off and landing at Tel Aviv’s Ben Gurion airport. An Israeli official publicly blames Russia; a Russian official calls the charge “fake news.”
+
+A version of this article appears in the February 2020 issue of Fortune with the headline "When GPS Gets Lost."

@@ -1,0 +1,67 @@
+New cybersecurity breaches seem to be an almost weekly occurrence lately and more than 14 million Americans a year become victims of identity theft, according to the latest estimates. Yet consumers continue to leave themselves vulnerable to fraudsters eager to nab their personal data. The culprit: the highly predictable passwords, PINs and other log-ins they use for their online accounts.
+
+That's an increasingly costly mistake. More fraud victims are now on the hook for at least a portion of the expenses that data thieves ring up in their name and the amount they're paying is rising too. All told, 3.3 million victims bore some financial liability for fraud perpetrated on their accounts in 2018 (the latest year that data is available)—that's nearly three times the number who paid out of pocket in 2016. Meanwhile, the amount individuals paid more than doubled to $1.7 billion over the same period, according to a study last year by Javelin Strategy & Research.
+
+Sure, both Visa and MasterCard have zero-liability policies that say you won't be held responsible for unauthorized card charges as long as you report the fraud promptly. But wording in the fine print adds a caveat: to qualify, the cardholder must use care to protect the card. Could a password that's easy to crack violate those rules? At least one bank in Canada this year was reported to have held a 20-year-old student accountable for around $6,800 in fraudulent charges made after she lost her debit card because she'd used the last four digits of her phone number, an easy-to-figure-out sequence, as her personal identification number.
+
+Cybersecurity experts told Newsweek they have never heard of a similar case in the U.S. and think the risk to American consumers is slim to none thanks to federal protections limiting liability under the Fair Credit Billing and Electronic Fund Transfer Acts. But while the law will help protect you if your debit or credit card is hacked, a growing number of fraudsters are looking beyond these classic channels to target mortgages, student loans, car loans and other types of financial accounts, Javelin found. And these accounts lack the same clearly defined consumer protections that debit and credit cards have, leading companies to determine liability on a case-by-case basis, says Adam Levin, a cyber security and identify fraud expert and author of Swiped: How to Protect Yourself in a World Full of Scammers, Phishers, and Identity Thieves.
+
+How do you know if your passwords and PINs are strong enough to prevent hackers from accessing your accounts, which could leave you with a time-consuming and potentially expensive mess to clean up? Drop "password" as a password and follow these seven rules instead.
+
+
+“Once hackers find one login they can access, they will try using that same password to access all your other accounts.” Paul Dudikov/Getty
+Think memorable, not complex
+
+For years, the standard advice about creating secure passwords was to include a mix of upper- and lower case letters, numbers and special characters (such as &, %, $ and *). But that advice only works if you're randomly selecting and ordering those characters—something most people avoid because it makes the password too difficult to remember. Even folks who do opt for passwords that are tougher for others to discern often take shortcuts to help them remember, like adding"123" at the end, which leads, ironically, to easily predictable patterns that make those logins less secure.
+
+That's why the National Institute of Science and Technology (NIST) has dropped the advice about having a complex mix of characters from its safety guidelines. Its latest recommendation instead: Think of a password more as a passphrase, says Curtis Dukes, executive vice president of the Center for Internet Security.
+
+Try, for example, stringing together four or five disassociated words, such as "hail mongoose rubber grandma" to create a unique set of characters that will be easy for you to recall but hard for someone to crack, says Levin. Cartoonist Randall Munroe, creator of the popular webcomic xkcd, which explores technology, math and other topics, illustrated the idea in a popular installment, pointing out that the password "Tr0ub4dor&3" can be hacked in less than three days because it contains predictable capitalization, special character placement and numerical substitutions for letters but a password like "correct horse battery staple" would take 550 years.
+
+If memorizing a list of random words seems too challenging, try using the first letter of each word in a line or two of your favorite song or quote. Say, for instance, you're a fan of last year's chart-topping Old Town Road by Lil Nas X, which begins: "Yeah, I'm gonna take my horse to the old town road. I'm gonna ride'til I can't no more." Using the first letter of each word of these two lines of the song results in a password that looks like this: yigtmhttotrigrticnm. It seems impossible to remember at first, but sing the song in your head and the password will come to you easily.
+
+Don't get too personal
+
+One of the easiest ways to recall a password is to relate it to something already meaningful to you. Hackers know this and count on it, often using public records, social media profiles and other leaked data to learn significant dates (birthdays, anniversaries), names (pets, spouse, kids, maiden surname) and numbers (phone, addresses, Social Security) that might crop up in your passwords."Your password should have no relationship to anything in your life," says Levin.
+
+Bigger really is better
+
+Aim to have your password stretch to 12 characters or more, says James Lee, chief operating officer of the Identity Theft Resource Center. The simple reason: Longer passwords are much harder to crack.
+
+A seven character password can take hacking software as little as 0.29 milliseconds to figure out, but a 12-character password could take nearly two centuries, according to research from software and technology consultant BetterBuys based on data from Intel and password cracking tools. Up the ante to 24 characters and it would take hackers more than 18 million years, according to data from the University of Wisconsin. To test how quickly your password can be cracked, you can use BetterBuys'interactive tool,"Estimating Password-Cracking Times," on its website.
+
+Change only when necessary
+
+Rather than creating a new password every 30, 60 or 90 days, NIST now recommends you avoid frequent changes. Just stick with the same password, unless you think it has become compromised.
+
+"Changing passwords on a frequent basis is too hard for people," says Dukes. "Most were writing the new password down, using easy to remember passwords or just adding to their password numerically. It wasn't adding any security value."
+
+Instead, he recommends you check the website Have I Been Pwned (haveibeenpwned.com) regularly to see if you have an account that has been compromised in a data breach. If so, create new passwords just for the affected accounts. And anytime you hear of a cyber attack on a company you do business with, that's a signal to alter your password, says Levin. You can also check whether any of your existing passwords have been hacked using the same site's interactive password tool, which contains a database of more than 500 million passwords that have been leaked after various cyber attacks. If they're in that database, it's time for a change.
+
+Never repeat your passwords
+
+Today, people can have as many as 90 online accounts; creating a unique password for each one of them is a giant hassle. Which is why most people don't do it. A McAfee survey, for instance, found that respondents had, on average, 23 online accounts that require a password but only used 13 unique passwords to access those accounts. About a third of consumers only use two or three passwords for all of their accounts.
+
+"Equally as important as having a strong password is having multiples," says Lee. "You need a unique one per account. Don't repeat. Once hackers find one login they can access, they will try using that same password to access all of your other accounts. It just makes life easier for the hackers."
+
+Get the right kind of help
+
+Of course, a big part of the reason many people rely on a small number of passwords for multiple accounts is to make them easier to remember—and memorization is the primary method most Americans use to keep track of their passwords. The next most popular methods, according to a survey by Pew Research Center: Half of Americans write down their passwords on a paper list; 24 percent stash them in a note on their computer or mobile phone; and 18 percent save them in an internet browser.
+
+You might as well hang out a welcome sign for fraudsters saying, "Come and get me." All of these methods are largely unsecure since anyone who uses your computer could log in to your accounts if they are saved on your device or browser, or stumble across your written list, if it isn't properly locked away. Plus, browsers can be easily hacked.
+
+A better approach: Use a password vault or manager. These services securely store your account info and passwords on either your hard drive or in the cloud. Many companies offer a free basic version, but charge $25 to $60 a year for advanced features, such as emergency access and priority tech support.
+
+If you use a program, like KeePass, which operates through your computer hard drive, you'll need to copy and paste the password into each website. But programs like LastPass and Dashlane, operate through the cloud, meaning they can automatically log you into websites you visit, change passwords for you and recommend secure passwords. The extra convenience of cloud connections do leave them more vulnerable to large-scale hacks than ones that operate through your computer hard drive, says Lee. But the risk of skipping the password manager and using repetitive passwords instead is much greater, he adds.
+
+Jump through a few hoops
+
+Back up your password by enrolling in two-factor or multi-factor authentication on any accounts that offer this option. This means that after entering your password, the site requires you to take an extra security step to gain access, such as entering a short-lived code texted to your phone or email or pulled from a third-party generator, such as Google Authenticator.
+
+Some websites may add additional security in the form of personal questions, such as asking about your mother's maiden name or the make of your first car. Levin recommends lying."There is so much info out there about us, it is easy for hackers to find the right answers to these questions, so answer them incorrectly when you set the account up,"says Levin."Just don't be so creative in writing your wrong answer, that you can't remember it. These systems are testing for consistency not veracity."
+
+Finally, change the login ID on your accounts from your email address or some combination of first and last name to a random assortment of words or characters, much like your password. Hackers will be challenged to guess not only your password but the username as well.
+
+Then relax. After all, if you've chosen well—say, a passphrase formed from the first two lines of Hey Jude—it will likely take millennia for hackers to crack your code (actually, 119 millennia, nine centuries and nearly five decades, in the Beatle song example). Not only will you be long gone by then but the technology around passwords, and maybe even passwords themselves, will probably be obsolete as well.
+
+Kerri Anne Renzulli is a personal finance journalist based in London. She has worked for CNBC, Financial Planning magazine and Money.

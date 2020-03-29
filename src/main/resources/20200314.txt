@@ -1,0 +1,115 @@
+This article is part of a Fortune Special Report on Artificial Intelligence.
+
+In his Amsterdam offices, about an hour’s drive from his company’s largest non-American ketchup factory, Pieter Schalkwijk spends his days crunching data about his colleagues. And trying to recruit more: As head of Kraft Heinz’s talent acquisition for Europe, the Middle East, and Africa, Schalkwijk is responsible for finding the right additions to his region’s 5,600-person team.
+
+It’s a high-volume task. Recently, for an entry-level trainee program, Schalkwijk received 12,000 applications—for 40 to 50 openings. Which is why, starting in the fall of 2018, thousands of recent university graduates each spent half an hour playing video games. “I think the younger generation is a bit more open to this way of recruiting,” Schalkwijk says.
+
+The games were cognitive and behavioral tests developed by startup Pymetrics, which uses artificial intelligence to assess the personality traits of job candidates. One game asked players to inflate balloons by tapping their keyboard space bar, collecting (fake) money for each hit until they chose to cash in—or until the balloon burst, destroying the payoff. (Traits evaluated: appetite for and approach to risk.) Another measured memory and concentration, asking players to remember and repeat increasingly long sequences of numbers. Other games registered how generous and trusting (or skeptical) applicants might be, giving them more fake money and asking whether they wanted to share any with virtual partners.
+
+Their results, measured against those of games played by 250 top-performing Kraft Heinz staffers, told Schalkwijk which candidates Pymetrics thought were most likely to succeed—because their traits, as represented by their gaming skills, most closely matched those of the risk-seeking, emotionally intelligent employees the company prizes. That data in turn helped decide job offers, creating a machine-assisted recruiting class.
+
+Schalkwijk is one of a fast-growing cohort of human resources executives relying on artificial intelligence to recruit, assess, hire, and manage their staff. In a 2018 Deloitte survey, 32% of business and technology executives said they were deploying A.I. for “workforce management.” That share is almost certainly higher today—and it’s spreading to encompass some of the world’s largest companies.
+
+A machine-learning algorithm is like a toddler; it will learn from its environment. We haven’t had a diverse group at the table creating this technology to date.
+
+
+FRIDA POLLI, COFOUNDER AND CEO, PYMETRICS
+As a job seeker, you might have your application vetted by a Mya Systems chatbot at L’Oréal or PepsiCo. You could respond to an A.I.-crafted job posting vetted by Textio, perhaps at Expedia Group or ViacomCBS. You could be asked to play Pymetrics games not only at Kraft Heinz but also at Unilever or JPMorgan Chase. You could record one of the automated HireVue video interviews used by Hilton and Delta Air Lines.
+
+Your relationship with A.I. may extend past the job offer too. Once hired, you might find yourself filling out employee-engagement surveys designed by Microsoft’s LinkedIn, where your answers could help set your manager’s performance targets. Your employer could tap you for promotion opportunities identified by Workday’s A.I. If you work at an Amazon warehouse and miss your productivity goals, in-house systems could recommend that you be fired. On the other hand, if you work at IBM and plan to quit, in-house systems might guess your plans and warn your managers that they should try to make you happy.
+
+Companies are delegating considerable responsibility to these machines, and the list of personnel tasks in which A.I. plays a role is likely only to grow. Low unemployment and tight labor markets are putting employers under pressure to take any technological advantage they can get in the war for talent.
+
+In a LinkedIn survey of hiring managers and recruiters who use A.I., 67% said they embraced the tech because it helped them save time. And a smaller cohort, 43%, cited an arguably more important motivation: A.I., they said, would help them combat bias in their decision-making. “People are inherently biased,” says Schalkwijk. “I wanted less biased hiring decisions and more data-driven hiring decisions.”
+
+At its best, its creators and adopters argue, A.I. can eliminate bias from the hiring process. This can foster greater gender and racial diversity—both of which are associated with better business performance and employee engagement. A.I. can also purportedly look past another kind of bias, providing more opportunities to applicants who don’t have expensive brand-name educations. Before using Pymetrics, Kraft Heinz recruiters tended to scan résumés looking for top-tier universities. Now, Schalkwijk says, “it doesn’t matter if you’re from Cambridge.”
+
+More broadly, A.I. can help employers better perceive their workers’ strengths. Contenders including LinkedIn and enterprise-cloud specialist Workday have built A.I.-enabled tools that they say can help human managers better recognize or track employees’ skills. “We can use technology to find patterns that I wouldn’t as a team leader be able to find in the past, to coach and develop people in a more thoughtful way,” says Greg Pryor, a senior vice president overseeing Workday’s internal talent-management programs. (In addition to selling it, Workday uses this technology with its own employees.)
+
+Still, for all its potential, many employers are approaching A.I. warily. They’re confronting the promise-and-peril irony of applying A.I. to human populations: Done correctly, it has the potential to eliminate bias and discrimination; done injudiciously, it can amplify those same problems. And in a new, very much unregulated market, such problems may be hard to spot until it’s too late. Even some executives who are using A.I. express skepticism in private about what the technology can do—or what its drawbacks might be.
+
+“We’re in sort of the primordial ooze of how A.I. is going to find its way,” says Gordon Ritter, founder of venture firm Emergence Capital and an investor in several A.I. startups. “Is it friend or foe?” Ritter is betting that A.I. will prove beneficial, but for now, to many executives, the ooze still looks murky.
+
+
+“A.I. is like teenage sex,” says Frida Polli. “Everyone says they’re doing it, and nobody really knows what it is.”
+
+The joke has been making the rounds in A.I. circles for a while, and Polli, the cofounder and CEO of Pymetrics, has been around long enough to see the truth in it. After getting a Ph.D. in neuropsychology and working in Harvard and MIT research labs, Polli found herself divorced, supporting a young daughter, and burned out on academia’s low paychecks. She went back to Harvard for business school, and in 2013 she started a cognitive assessment company with a former MIT colleague. Pymetrics promises to help employers make better, more diverse hires, based on what applicants could do rather than what their résumé says or what college they graduated from. The venture-funded New York startup now has a valuation of $190 million, according to PitchBook, and between $10 million and $20 million in annual revenues; its games are used by about 100 employers.
+
+A fierce A.I. evangelist, whose clear blue eyes and near-platinum hair match the intensity of her conversational speed, Polli acknowledges—and parries—critiques of the technology’s potential for misuse. Yes, bad A.I. actors exist, she says. But it’s not like humans are so much better, as demonstrated by enduring gender, racial, and class disparities. “There’s a front door to hiring and a back door,” Polli argues, “and the front door’s broken.”
+
+
+Frida Polli’s startup, ­Pymetrics, designs games that work in conjunction with A.I. to assess job candidates’ personality traits. She says the system helps companies make more diverse hires­—and, consequently, perform better.
+Photograph by DeSean McClinton-Holland for Fortune
+
+Hiring is where A.I. currently is most widely used in personnel management. In this arena, “artificial intelligence” often gets lumped together with basic automation, such as keyword searches of résumés. But it more specifically refers to machine learning—where software teaches itself about correlations between applicants’ backgrounds and behavior and their potential performance.
+
+ The problem, notes Matissa Hollister, an assistant professor of organizational behavior at McGill University, is that a machine-learning system is only as unbiased as the information it learns from. “To the extent that the real world contains bias,” she says, “there’s the risk that the algorithm will learn that bias and perpetuate it.”
+
+That has already happened in some prominent cases. Amazon spent years building a résumé-analysis algorithm—one that it never used, because it turned out it discriminated against women. Because most of the previously submitted résumés it assessed were from men, the algorithm taught itself that men were always preferable hires.
+
+More recently, HireVue, which uses A.I. to vet video interviews, has drawn scrutiny around bias issues. HireVue’s system asks applicants to use smartphone or laptop cameras to record answers to automated questions; its software then analyzes factors including word choice and facial expression. The Utah-based vendor, majority-owned since October by private equity firm the Carlyle Group, introduced its facial-analysis product in 2014. It has since been used by roughly 100 employers to assess more than 1 million applicants.
+
+Its use hasn’t gone uncriticized. A.I. that relies on facial recognition can often misidentify or misread faces of color, especially those of darker-skinned women. HireVue says that its facial-analysis technology doesn’t extend to facial recognition. But a prominent privacy watchdog has asked the Federal Trade Commission to investigate HireVue for “unfair and deceptive practices”—challenging its use of facial analysis and of algorithmic assessments that are not transparent.
+
+HireVue CEO Kevin Parker downplays the importance of facial analysis to HireVue’s assessments, and he argues that his company is “very focused on eliminating bias.” By standardizing how candidates are assessed, he argues, HireVue provides a superior alternative to ordinary hiring. “It’s certainly better than the typical ‘I know it when I see it’ ” snap judgment, he says.
+
+But the criticism HireVue faces points to the problem highlighted by Hollister: Machines are as likely to amplify biases as they are to sidestep them. That’s especially problematic when the people designing the tools are predominantly white and male, as is the case in much of the tech industry. “A machine-learning algorithm is like a toddler; it will learn from its environment,” Polli says. “We haven’t had a diverse group at the table creating this technology to date.”
+
+Equally unsettling to labor advocates is that most A.I. technology is both unregulated and opaque to the workers affected by it. Employers and vendors have to comply with antidiscrimination guidelines from the Equal Employment Opportunity Commission, but the EEOC has no A.I.-specific rules. Illinois recently passed a law that requires disclosure when employers use automated video interviewing. Industry members and critics agree it’s a good first step—but only a first step.
+
+ “We may not have proof of bias. We also don’t have proof of benevolence,” says ­Meredith Whittaker, a former Google employee and cofounder of the AI Now Institute at New York University. A.I.-enabled hiring systems are “sold to employers, not to workers,” she points out.
+
+Even so, employers are still figuring out whether A.I. will advance those interests. Most have been using A.I. in human resources for only a few years, if that. “It’s a trend that’s here to stay,” says Ifeoma Ajunwa, an assistant professor at Cornell who studies automation in hiring. “But A.I.’s still a blunt tool.”
+
+
+In a tower at the heart of Times Square, with remnants of New Year’s Eve crowds still dispersing from the streets below, Eric Miller is talking back to his computer. It doesn’t love what he’s typed. “It’s currently ‘comparing this writing to 102 million job posts.’ So thank you for that,” Miller snarks, mock-offended. A few minutes later, a different bit of writing passes machine muster: “It liked me! That’s a first.”
+
+Of course, Miller is one of the people who invited this critic into his company in the first place. He’s the vice president of global talent acquisition for ViacomCBS, and he’s scanning through Viacom’s library of more than 200 A.I.-­assisted job listings. For the past year his team has fed these listings through A.I. technology produced by startup Textio. A Seattle-based company founded by Microsoft veterans, Textio makes what’s essentially a woke word processor.
+
+Textio’s program compares job listings and other communications with those written by other employers throughout its system (hence those 102 million other posts). The machine-learning technology measures the response that different posts attract, and from whom, and constantly assesses whether certain words and phrases attract or repel candidates—owing to subtle linguistic bias or just plain bad writing.
+
+HR is already looked at as ‘those people,’ the bad guys, right? If you start to introduce something that feels mechanical and employees pick up on that, that’s not a good look.
+
+
+ERIC MILLER, VP OF GLOBAL TALENT ACQUISITION, VIACOMCBS
+In the job description Miller is working on, the word “expert” is highlighted in light blue, to signify that it conveys a slightly masculine tone; swapping in “authority” makes the language more gender neutral. Loaded terms like “aggressive” are out, even though Miller may want recruits who can “meet aggressive deadlines.” (“You probably don’t think about that,” he explains, “but Textio thinks a lot about it.”) The software even flags corporate jargon like “drive results,” which can turn off potential applicants; Textio prefers asking them to “get results.”
+
+Which ViacomCBS is doing. The company has seen a 28% increase in applications to jobs whose descriptions Textio rates as “neutral” in tone and is filling jobs with high Textio scores 11 days faster, Miller says. It’s seeing a measurable increase in gender diversity among applicants, too, including in traditionally male-dominated engineering roles.
+
+It all seems like a benign first step in bringing A.I. into the HR process. Yet ViacomCBS has taken about a year to roll it out. And Miller has words of caution for fellow human resources executives who want to embrace A.I. “HR is already looked at as ‘those people,’ the bad guys, right?” he says. “If you start to introduce something that feels mechanical and employees pick up on that, that’s not a good look.” His advice for a better look? “Do your research. Check. Check again.” Miller’s biggest piece of advice echoes that of academics and critics: Make sure you or your vendors conduct regular audits, ideally by independent third parties, to ensure that the A.I. itself isn’t discriminating against specific groups.
+
+But who exactly are the auditors? Cornell’s Ajunwa foresees a day when an independent agency gives out “fair automated hiring” certifications. For now, though, audits are largely self-imposed. Polli says she has an academic auditor lined up for Pymetrics and is in talks with a second; HireVue’s Parker says he hopes to hire an auditor by the end of March.
+
+It all adds up to the kind of gray area that makes corporate legal departments nervous. “You have to be methodical about [A.I.], or you’re going to be doing damage,” Miller says. “But the rewards are huge if you get it right.”
+
+
+A.I. providers haven’t proved that those rewards translate into bottom-line gains—but they say that day is coming. Pymetrics, for one, claims its technology can lead to better overall business performance. According to an anonymized case study provided by Polli, one insurance customer found that sales employees who had been “highly recommended” by Pymetrics generated 33% more annual sales than other hires.
+
+In Amsterdam, Pieter Schalkwijk is measuring rewards by other metrics. Kraft Heinz has been able to hire talent with a broader mix of expertise: Before implementing the Pymetrics tests, about 70% of trainee hires had business degrees. Last year, only about half did, and around 40% had engineering degrees. Kraft Heinz has been so pleased with early results, Schalkwijk says, that it’s using Pymetrics tests in some U.S. hiring efforts.
+
+Still, he too is proceeding cautiously. For example, Kraft Heinz will likely never make all potential hires play the Pymetrics games. “For generations that haven’t grown up gaming, there’s still a risk” of age discrimination, Schalkwijk says.
+
+He’s reserving judgment on the effectiveness of Pymetrics until this summer’s performance reviews, when he’ll get the first full assessment of whether this machine-assisted class of recruits is better or worse than previous, human-hired ones. The performance reviews will be data-driven but conducted by managers with recent training in avoiding unconscious bias. There’s a limit to what the company will delegate to the machines.
+
+A.I. “can help us and it will help us, but we need to keep checking that it’s doing the right thing,” Schalkwijk says. “Humans will still be involved for quite some time to come.” 
+
+
+Five ways that A.I. is remaking the workplace
+More companies are relying on artificial intelligence (often created by nimble startups) to help with the more time-consuming and complex elements of finding and managing talent. Here are five arenas where A.I.’s role is growing.
+
+1. Chatbot recruiters
+These tools are aimed at big employers seeking to hire part-time or low-wage employees en masse: Think call centers, or retailers staffing up seasonally. A.I.-enabled chatbot Mya Systems helps clients including L’Oréal and PepsiCo do vetting and interview-scheduling.
+
+2. Deep background checks
+Think twice about that Tweet. Fama Technologies uses A.I. to analyze the social media feeds of potential hires and current employees, looking for signs of racism, misogyny, or toxic behavior. Checkr provides general A.I.-enabled background checks for employers including Uber and Lyft.
+
+3. Employee advisers
+More companies are deploying A.I. to monitor and help people they’ve already hired. Workday is rolling out technology to track workers’ skills (and proactively offer them chances for advancement); talent-acquisition startup Eightfold.ai says its similar platform can reduce unwanted attrition by 25%.
+
+4. Management coaches
+As employers try to improve employee engagement, many are enlisting A.I. to figure out and fix what’s wrong. Technology from Microsoft’s LinkedIn regularly surveys employees; it then flags a decline in morale or unusual underperformance and offers suggestions about how managers could improve.
+
+5. Performance (review) artists
+Employers have begun to introduce more A.I. into what remains a largely human-driven process. LinkedIn in September launched a product that allows employers and workers to check in on performance goals and feedback more regularly (and to compare accomplishments across an entire company).
+
+A version of this article appears in the February 2020 issue of Fortune with the headline "Siri, Did I Ace the Interview?"
