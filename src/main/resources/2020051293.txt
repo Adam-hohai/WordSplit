@@ -1,0 +1,121 @@
+Here’s a question that should make you shudder: What if, in the midst of the coronavirus pandemic, the internet had buckled?
+
+What if, just as the medical-care crisis started to spiral in New York City, in Detroit, in New Orleans, the internet in those places had stopped working—an hour at a time, a couple of hours in the late afternoon? What if the internet had slowed to half its normal speed? What if it had worked only as well as the U.S. distribution system for toilet paper or N-95 masks did?
+
+“Oh my God,” says Avi Freedman, the CEO of Kentik, a company that helps big customers such as Zoom and Dropbox maximize internet performance, “it would all be over.”
+
+Almost the entire nation now seems to be online at the same time, many of us using two or three devices at once—for urgent work meetings and talking with Mom, for college chemistry lectures and neighborhood yoga classes, for grocery shopping and video binge-watching. Digital life has rushed to fill the gaps created by social distancing, allowing some semblance of normalcy and keeping some parts of the economy open for business. Indeed, the things the internet lets us do are a big part of the reason people are comfortable staying confined to home, and are able to. To the degree that any institution is keeping American society knitted together during this crisis, it’s the internet.
+
+Evelyn Douek: The internet’s titans make a power grab
+
+In the United States, internet traffic carried by AT&T, one of the nation’s largest internet providers, rose almost immediately by 20 percent starting in mid-March. By the end of April, network traffic during the workweek was up 25 percent from typical Monday-to-Friday periods in January and February, and showed no signs of fading. That may not sound like much, but imagine suddenly needing to add 20 percent more long-haul trucks to U.S. highways instantly, or 20 percent more freight trains, or 20 percent more flights every day out of every airport in the country. In fact, none of those infrastructure systems could have provided 20 percent more capacity instantly—or sustained it day after day for months.
+
+Yes, there have been hiccups. Freedman notes that “we are seeing an increase not only in traffic, but in short-duration outages.” Your laptop—or the apps you’re trying to use on it—may well be advising you, from time to time, that your internet connection is weak. But that’s hardly surprising, or alarming, Freedman says, given that we’ve taken growth “that would happen over a year or two and compressed it into six weeks.”
+
+The story of how that happened may not involve the sort of life-threatening heroics we’ve seen from medical personnel in New Orleans or New York. But amid so much highly visible dysfunction in the American response to the coronavirus, it’s worth appreciating the internet as an unsung hero of the pandemic. It has stayed on because people out there are keeping it on. The internet’s performance is no accident, but rather the result of long-term planning and adaptability, ingenuity and hard work—and also some characteristics that have become part of the personality of the internet itself.
+
+With 250,000 employees and $181 billion in revenue, AT&T is the nation’s largest telecom company by far, and the third-largest broadband-internet provider, after the cable companies Comcast and Charter Communications. It is also one of the largest carriers of internet traffic, and it helps manage the internet backbone—the crucial superhighway of hidden fiber-optic cables that form the bulk of the internet’s carrying capacity, spanning the U.S. and crossing the oceans to Europe and Asia. So as I tried to understand why the internet hasn’t buckled under the current strain, AT&T seemed like a good place to start.
+
+Internet companies don’t routinely reveal their own network performance. But when I reached out, AT&T agreed to pull back the curtain, sharing data and allowing me to interview key staff. In some ways, the story they told is particular to AT&T, but in others, it paints a picture of the industry as a whole, revealing how the pandemic has changed our use of the internet, and also what it has taken to keep the internet running.
+
+In the pre-pandemic world, weekdays on the internet were pretty placid. Most of the normal routines of work are undemanding for the network: emails, Slack messages, loading websites, sharing files.
+
+Derek Thompson: A world without work
+
+Web traffic in the U.S. would typically pick up around 9 p.m., as millions of us settled in to decompress with Hulu or Netflix, Disney+ or Amazon Prime Video. Netflix has 60 million U.S. subscribers (and many are multiuser memberships). Hulu has 30 million subscribers, Disney+ 30 million, Prime Video 40 million. Even accounting for overlap, more than half of Americans can watch streaming video on any particular Tuesday night. (One study says that 70 percent of U.S. households have a streaming subscription.) And streaming video takes huge amounts of internet bandwidth. Internet traffic across the network rises each night as people tune in.
+
+“The peak in backbone traffic used to be Saturday and Sunday nights,” said Chris Sambar, who runs AT&T’s technology operations, a division with 22,000 employees who build, maintain, and operate the company’s global network. On Sunday nights, Americans “don’t go out. We stay home and watch videos and movies. Sunday night has always been the high-water mark for traffic.” At least until mid-March 2020.
+
+On Friday, March 13, AT&T told its employees that everyone who could should start working from home, and the following Monday, more than a third of the company’s staff—some 90,000 people—reported to work from their kitchen table. That same week, lots of companies with employees who could work from home did the same. Stay-at-home orders soon followed from state and local governments. Immediately, Sambar said, “we started to see peaks in the middle of the week.” Use was rising sharply during the normally quiet daytime hours, and also on weekday evenings. “We started seeing multiple days during the week equivalent to Sunday.”
+
+Two big things were happening.
+
+First, tens of millions of Americans who normally met face-to-face with colleagues or classmates were now doing so over the internet, using audio- and videoconferencing, Skype, Zoom, FaceTime, Webex. All of a sudden, the daytime internet was filling up with high-demand video traffic.
+
+And second, all those connections were being made from dining-room tables and couches at home. Big downtown office buildings, sprawling office parks—those have robust internet connections because so many people rely on them, and because some work functions (such as stock trading) require superfast, super-responsive connections that don’t slow at all. Residences do not.
+
+In the month since businesses closed and people started working from home, AT&T data show that the amount of phone calling we did using Wi-Fi as the initial connection (so-called “Wi-Fi calling”) nearly doubled during the day. We were jumping on our cellphones at home to talk with our colleagues, and often the phone was deciding that the cellular network itself was so busy that it was best to use Wi-Fi to connect the call.
+
+Read: Work from home is here to stay
+
+And in those same four weeks, as we settled in to the fresh daily routine of video meetings and back-to-back conference calls, AT&T says the number of minutes of audio- and videoconferencing across the network, on every platform, went up fivefold—an astonishing jump that squares with everyone’s daily Zoom immersion.
+
+In other words, we began using much more data-demanding technologies, all at once, in precisely the place not designed to handle that kind of demand. “This is an event,” Sambar said, “unlike anything we’ve ever seen.”
+
+As people who explain the internet always say, it’s not one place, and no matter where you’re going, there is not just one route: It is, famously, a web of connections. AT&T’s website reports, with an air of odd precision, that every time you make a call on its mobile network, the call can be connected by 134 different routes. The same is essentially true of any journey you take through the web. If something goes wrong on the best route, the call, the email, the Amazon order takes another.
+
+In that sense, the internet is very much like the highway-and-road system in the U.S. There are small two-lane roads that lead to homes and businesses. There are larger, secondary roads that have larger businesses and residential complexes on them. And there are interstate highways, where the traffic goes fast for long distances without a lot of entrances and exits. The internet has almost exactly the same network of connections—big, high-speed, high-volume ones that cross continents and pass under the Atlantic and Pacific Oceans; medium-size ones inside cities; and “last mile” connections directly to individual homes and businesses.
+
+Having many paths to any given destination is part of the internet’s original design, a characteristic that’s been retained as the network has expanded. It’s much of what gives the internet its adaptability and resilience. Just as the closure of a single road for maintenance doesn’t prevent people from driving where they need to go, so specific local problems or outages in internet technology don’t typically derail traffic.
+
+But it’s also the case that residential areas aren’t designed with the capacity and flexibility of the higher-capacity sections of the internet—any more than a residential street is designed with the capacity of I-95.
+
+Even if you have a fiber-optic connection right to your house, it’s nothing like the connection to an office building. The internet and the mobile-phone network both still rely on a huge array of central switching offices—modeled on the central offices of the telephone system from a century ago—that collect calls and internet traffic from neighborhoods and route them into the larger network, and vice versa. Your home’s fiber-optic connection is part of what’s called the “last mile” infrastructure of the internet—leading from those central offices out to subdivisions and small businesses. In your own neighborhood, there’s less “route flexibility” than in your city or region—just as there is with streets or the electric grid. And it’s turned out that the last mile is what’s preoccupying many internet engineers and technicians today.
+
+Another, more recent element of the internet has turned out to be indispensable for the moment we’re in: the cloud. Much of the software and information that we rely on—our Gmail inboxes, Slack channels, all kinds of essential corporate and government databases—isn’t stored away in a series of tall cabinets behind a locked door on the 24th floor of our company’s office. It’s in the hands of Amazon and Microsoft, Google and IBM, in enormous facilities run by professional data wranglers, who have additional enormous facilities as backup. Amazon and IBM don’t care where we are when we sit at our keyboards and access the data. This cloud infrastructure, combined with the resilience of the internet’s own web of connections, frees us to do our work wherever we happen to be.
+
+Read: We need to stop trying to replicate the life we had
+
+It didn’t used to be that way—you used to have to be in the building where both the work and the computers were to do that work. The internet of 20 years ago, Avi Freedman says, would have struggled to help us in a crisis similar to the pandemic. “We are performing right now much better at our worst than the internet did at its best in the 1990s.”
+
+The cloud, too, has efficiency and extra capacity built in as part of its operating structure—the ability to add computing capacity at the click of a mouse—because somewhere, Google and Microsoft have servers waiting. That is part of what they offer fast-growing digital companies, in fact: the power to add capacity instantly, without those companies having to buy and configure their own computers. The cloud means that we can do everything from anywhere.
+
+And it turns out that, during the pandemic, among the things being run from home is the internet itself.
+
+Amanda Graham has been at AT&T for two decades—she started in customer service, then got an electrical-engineering degree, and for the past 13 years she’s been a network engineer for the company.
+
+         Graham can see into the internet. When something goes wrong—when a car accident takes out a piece of equipment, when a switch or a network router fails—she can click through to the component that’s not working and get a list of the business customers who are relying on that router or switch, and who might be losing their internet connection.
+
+That’s her job: to keep business customers connected, to see the problems coming if she can and scramble repair service. Graham doesn’t talk directly with AT&T’s customers, but when trouble erupts, she makes sure the people who take care of those customers know what’s happening, often before corporate IT departments figure it out and call AT&T.
+
+Graham spent more than three years doing that at AT&T’s network headquarters, the Global Technology Operations Center (which AT&Ters call the “Gee-tock”) in Bedminster, New Jersey, 40 miles west of the Holland Tunnel. The GTOC has the air of mission control: quiet, dimly lit, with three rows of workstations facing a curved video wall that is 12 feet tall and 250 feet wide, almost the length of a football field. The wall is composed of 141 screens showing the people in the room any kind of vital sign about AT&T’s network, and the internet, that they might want. The video wall also shows real-time weather data and the 24-hour news channels—because the weather and the news often tell you when something is about to happen to the internet. The GTOC has three shifts, every day of the year; inside, 2 a.m. and 2 p.m. don’t feel that different (although our use of the network is).
+
+Graham more recently has worked in a smaller version of the GTOC in Dallas, doing the same job she did in Bedminster. Starting Monday, March 16, she began logging on for her regular shift, from 5:30 a.m. to 2 p.m., from her living room.
+
+Graham can spot congestion in the network—the indicators are red instead of green, just as your route in Google Maps is red when things slow down. But now, instead of watching the cities, the downtowns, the skyscrapers, and the office parks where her business customers are clustered, Graham is watching the suburbs—where the employees of those customers live, and now work.
+
+“The local level is the business level now,” she said, “which is very different. We’re very aware of the stress that people are feeling.” Everyone needs their phone and laptop to stay connected; each of us has become our own IT help desk. “The other day, right here in Texas, we had an outage of U-verse”—AT&T’s residential internet service, the equivalent of Verizon Fios. An ethernet card in the network had failed. “About 1,000 customers down,” Graham said. “It’s very routine.” It’s not pleasant, of course, if you’re one of those customers, but it’s not much different from a brief electric-power failure.
+
+The internet is now so complicated, the traffic is now so enormous and fast-moving, that at AT&T and other companies that manage the internet, much of that management is automated. The network uses artificial intelligence to improve efficiency; it reroutes around backups and outages. All this is watched over by network engineers, but adjusted more quickly than human beings would be able to keep up with in most circumstances.
+
+Read: The end of the internet?
+
+The network isn’t typically programmed to reroute traffic for small neighborhood outages, though—partly because so few users are involved, partly because that last-mile part of the network doesn’t have much flexibility.
+
+The pandemic is changing that.
+
+When this particular local outage happened at midday, Graham said, “I got a message from one of our sales reps.” The neighborhood is home to a huge concentration of employees from one of the five largest banks in the U.S.—hundreds of at-home users who couldn’t connect. It would normally take a couple of hours for an AT&T tech to get to the right central office and swap out the bad circuit board. And on a typical weekday, with maybe 120 people at home in that neighborhood, AT&T would consider that a reasonable pace of repair.
+
+“But now that’s a bigger deal,” Graham said. It was, in essence, a virtual bank office building with hundreds of people who couldn’t do their jobs. “We wouldn’t take an outage like that and try to reroute it normally.” But in this case, she and her team were able to find a way to do that, so internet service was restored before the actual physical repair could be made.
+
+The surge in traffic, on the internet as a whole and on AT&T’s part of the network, is extraordinary in a way that the phrase 20 percent increase doesn’t quite capture. AT&T’s network is carrying an extra 71 petabytes of data every day. How much is 71 petabytes? One comparison: Back at the end of 2014, AT&T’s total network traffic was 56 petabytes a day; in just a few weeks, AT&T has accommodated more new traffic every day than its total daily traffic six years ago. (During the pandemic, the AT&T network has been carrying about 426 petabytes a day—one petabyte is 1 million gigabytes.)
+
+That puts pressure on the company to ensure that as many routes through the web as possible are open and uncongested at any given time. And the company also has scrambled to add capacity where it’s needed as internet usage has shifted geographically. At one point in March, for instance, traffic was rising so fast in Chicago and Atlanta that dozens of technicians and engineers in those cities worked all night, adding fresh fiber connections and routers. AT&T’s network is designed “to have plenty of headroom,” said Sambar, the network chief. “But we are playing whack-a-mole all over the country.”
+
+The simplest explanation for why the pandemic hasn’t broken the internet is that the internet was designed to be unbreakable, at the very beginning. (The early precursor to the internet, ARPANET, was designed to survive a nuclear attack by rerouting network signals.)
+
+That principle still infuses the way it is built, and also the way it is managed and maintained. And it’s reflected in the sheer number of resources—staff and infrastructure—that network companies such as AT&T and cloud companies such as Amazon devote to minimizing interruptions and slowdowns, even in a normal environment.
+
+Reliability—“uptime”—is a key selling point in the broadband world; internet-service providers staff up to ensure it. They build in excess capacity to enable an effective response to crises, and to stay well ahead of the astonishing growth of internet demand. In the process, the internet’s near-perfect uptime has become an operating characteristic of the internet itself—an assumption built into all kinds of our daily uses, from managing mission-critical systems such as power grids and air travel to sending messages on Slack and streaming music and video. Businesses and government institutions—and each of us, as well—assume an always-on connection that reaches everywhere.
+
+Jack Goldsmith and Andrew Keane Woods: Internet speech will never go back to normal
+
+That design philosophy is very different from the way much of the rest of the U.S. economy operates. The pandemic has shown us the downside of perfectly optimized systems—from the supply of ICU beds and virus-sampling swabs to the availability of baker’s yeast. We’ve been desperately short of all three of those things precisely because we’ve spent years tweaking supply chains so we have only exactly the amount we can use right now, without the “waste” of empty ICU beds or idle swab-making machines. In that way, what has saved the internet—redundancy, flexibility, excess capacity—reflects not just a different design philosophy, but a different underlying economic philosophy as well.
+
+AT&T rehearses for disaster. Last May, the company ran an internal war game on how a pandemic would affect its ability to keep phone and internet service running. The company does these exercises routinely to try to get ready—to build teams of people and their reflexes, and also to understand what they will need on the ground.
+
+Some of it is simple. In crisis mode, Sambar said, “we do something called ‘hands out of the network.’ Any maintenance that’s not critical, we stop doing. We call it a network freeze. Because any kind of routine software upgrade runs the risk of a human error … we want to do only things that are absolutely critical right now.”
+
+Some of it is considerably more elaborate. The internet doesn’t feel physical as we’re using it every day, but for the companies that build and run it, the internet is intensely physical. AT&T runs 485,000 miles of undersea cable and 1.3 million miles of fiber in the ground—enough wiring to stretch to the moon and back three times. In the U.S., the company has 80,000 cellphone sites and hundreds of central switching offices.
+
+So AT&T has 100,000 technicians, repair people, and engineers in the field—people who mask up, glove up, and make sure that there’s enough service for hospitals, or that failed equipment is replaced quickly. The company has set up dozens of mobile cell units at coronavirus testing sites, to make sure that those places have strong internet connections, for the people standing in line who fear they are sick, and also for the health-care professionals doing the testing through open car windows.
+
+The company’s network-recovery division maintains warehouses filled with equipment—four across the U.S., one outside the U.S.—to be ready to repair the network under a wide range of conditions. Those warehouses have the usual truck- and trailer-based mobile cell towers, portable generators, spare parts of all kinds—all regularly tested to make sure that they work in an emergency. The warehouses also have more exotic supplies—drones and small blimps to provide aerial internet service in the worst disasters, hazmat suits, and MREs in case techs need to take their own food to the site of an outage.
+
+Despite the country’s intense reliance on the internet, the pandemic hasn’t been good for AT&T’s business. The company has closed 60 percent of its retail stores (leaving the rest open for emergency service); at the start of April, 20,000 of its staff were sidelined by the pandemic, sick from or vulnerable to the virus themselves or taking care of family members who were. And AT&T has waived late fees and data-overage fees for its subscribers. On March 19, the company canceled a $4 billion stock repurchase in order to preserve cash for the uncertainty ahead.
+
+But like other businesses and institutions that are indispensable during this period, Sambar said, there is a sense of urgency and mission. “We’re trying to keep the economy going.”
+
+And to keep people who have been ordered to stay apart connected. The data show Americans’ intense desire to keep communicating. On AT&T’s network, customers are spending 33 percent more time talking on their cellphones, and they’re sending 40 percent more text messages, compared with January and February. Twice during the pandemic customers set a record for text messages,—once in mid-March as it started to build, and again on Easter weekend, sending more than 23,000 in a single second, besting the old record of 15,000, set on New Year’s Eve.
+
+The pandemic is even managing to revive a technology long thought passé—the original network technology. We’re talking on our landline home telephones again: Weekday minutes are up 45 percent; Sunday minutes are up 64 percent. America’s cities may be quiet—the malls, the highways, the coffee shops, the downtowns all deserted. But we’re talking with one another every way we can. Your mom appreciates the call.

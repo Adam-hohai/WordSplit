@@ -109,7 +109,7 @@ public class Main {
 
         String content = null;
         try {
-            content = read("src/main/resources/2020042980.txt");
+            content = read("src/main/resources/20200524105.txt");
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -131,7 +131,7 @@ public class Main {
             System.out.println(word + " " + translation + " " + frequency);
 
             //写入txt
-            File fileName = new File("src/main/resources/2020042980output.txt");
+            File fileName = new File("src/main/resources/20200524105output.txt");
             BufferedWriter out = new BufferedWriter(new FileWriter(fileName,true));//文件追加
             out.write(word + " " + translation + " " + frequency + "\r\n");
             out.flush();

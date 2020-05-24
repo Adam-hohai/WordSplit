@@ -1,0 +1,36 @@
+Artificial Intelligence
+
+The strictest rules will apply to life-and-death applications like self-driving cars and remote surgery.
+
+By
+
+
+Illustration: Maxime Mouysset for Bloomberg Businessweek
+
+
+Illustration: Maxime Mouysset for Bloomberg Businessweek
+
+Illustration: Maxime Mouysset for Bloomberg Businessweek
+
+When DeepMind, the artificial intelligence company owned by Google parent Alphabet Inc., released its predictions about some of the building blocks of the virus that causes Covid-19 in early March, it gave medical researchers a small but potentially important clue that could help them develop a vaccine and treatments for the respiratory illness. The company’s deep learning system, AlphaFold, which predicts the shapes of proteins when no similar structures are available, is just one example of the powerful role AI is playing in the fight against the novel coronavirus.
+
+The innovations that DeepMind and others are rapidly rolling out could be complicated by AI laws to be unveiled by the European Union this year. Even as the coronavirus upends business, economic, and legislative plans the world over, the EU is pushing ahead with its AI policy proposal, which would make it a global leader in regulating the sector. The European Commission, the bloc’s executive body, released its plan in February, calling for public feedback by the end of May. Unless prolonged virus-related disruptions get in the way, a formal proposal is expected by yearend.
+
+Businesses should pay close attention. They’ve seen before how the EU has punched above its weight as an international rulemaker. Its sweeping laws on privacy—which forced the likes of Google and Facebook Inc. to change how they collect user data—set a global standard, influencing other countries to follow suit. The same could hold true with AI. The U.S. and China are home to the biggest commercial AI companies—Google and Microsoft, Beijing-based Baidu, and Shenzhen-based Tencent—but if they want to sell to Europe’s consumers or businesses, they may be forced to overhaul operations.
+
+AI Software Revenue
+Data: Omdia
+
+The EU has mapped out a tiered approach to AI legislation to match rules to different levels of risk. That’s come as some relief to businesses, which had warned against blanket regulations that could hit companies officials didn’t intend to target. For less risky systems, such as AI-based parking meters, the EU is proposing voluntary labeling, similar to eco-labels seen on household appliances, which would allow companies to pledge to abide by ethical guidelines on transparency, human oversight, and other issues.
+
+For high-risk applications that could endanger people’s safety or legal status—such as self-driving cars, remote surgery, and biometric identification—the EU has outlined new mandatory legal requirements. Companies could be forced to have their systems tested before deployment and retrain their algorithms in Europe with different datasets to guarantee that users’ rights are held to the bloc’s standards.
+
+The provision for high-risk systems is already putting some in the tech sector on edge. DeepMind’s research on the coronavirus, for instance, was conducted using open source data from around the world, according to Sylwia Giepmans-Stepien, a Brussels-based public policy and government relations manager at Google. “Limiting some AI models to only using European data would significantly limit those capabilities in the current crisis, and that also applies to AI in normal situations,” she said at a recent online conference discussing the EU’s AI plans. Such checks could also result in Europe “trailing behind more pro-innovative economies” and could “incentivize companies to relocate to other markets with fewer bureaucratic hurdles,” says Christian Borggreen, vice president of the Computer & Communications Industry Association, which represents Google, Amazon, Facebook, and others.
+
+Brussels is standing firm. Margrethe Vestager, the EU’s tech czar, says the goal of her plan is to generate trust around the technology and how it’s deployed so people are more willing to embrace innovation. “That line of thinking is as relevant as ever,” Vestager said in an online discussion in late March. “That’s what led us to say, ‘For some types of technology that puts our fundamental values at risk, we will need regulation.’ I think that still holds true.”
+
+ Read more: Coronavirus Surveillance Helps, But the Programs Are Hard to Stop
+
+BOTTOM LINE - The EU is leading the way on regulation of AI, but some of the controls it’s considering could hinder companies, including those helping to fight the pandemic.
+
+Before it's here, it's on the Bloomberg Terminal.
